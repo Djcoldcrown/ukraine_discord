@@ -92,7 +92,7 @@ def write_json(**kwargs):
 def webhook(html_content: Article):
     """ Send webhook to Discord """
     utc_timestamp = datetime.utcnow()
-    ukraine_timestamp = utc_timestamp + timedelta(hours=3)
+    ukraine_timestamp = utc_timestamp + timedelta(hours=2)
     useast_timestamp = utc_timestamp + timedelta(hours=-5)
     uscentral_timestamp = utc_timestamp + timedelta(hours=-6)
     uswest_timestamp = utc_timestamp + timedelta(hours=-8)
