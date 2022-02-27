@@ -7,7 +7,8 @@ The bot is currently running and posting news right now as an example inside [my
 # Requirements
 - Python 3.6 or higher
 - Discord webhook URL
-
+# You are free to use this code
+Look i stole this wonderful piece of FOSS so if you take it and any modifications i made from it (Excluding my webhook URL) i don't blame you, go wild have fun
 ## Example outputs
 ![](https://i.alexflipnote.dev/P1967aY.png)
 
